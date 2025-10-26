@@ -78,8 +78,8 @@ The goal is to identify **distinct customer groups** to help businesses **person
 ## 🚀 How to Use
 1. Clone the repo:
 ```bash
-git clone https://github.com/saumyayadav25/Mall-Customer-Segmentation.git
-cd Mall-Customer-Segmentation
+git clone https://github.com/saumyayadav25/Customer-Segmentation.git
+cd Customer-Segmentation
 ```
 
 2. Install dependencies:
